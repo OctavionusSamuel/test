@@ -34,7 +34,8 @@
     - **PUT** `/admin/transaction/status` - Update loan transaction status  
   
   - ### User Profile Routes:
-    - **GET** `/getDataProfile` - Get user profile data  
+    - **GET** `/getDataProfile` - Get user profile data
+    - **PUT** `/update` - Update user profile 
     - **POST** `/delete` - Delete user  
   
   - ### Account Routes:
