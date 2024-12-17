@@ -24,26 +24,26 @@
   - **GET** `/api/customer` - Get all customer  
   - **POST** `/api/customer` - Create customer
 
-- ## Public Routes
+- ### Public Routes:
   - **POST** /register - Register a new user  
   - **POST** /login - Login user  
 
-- ## Admin Routes
+- ### Admin Routes:
   - **GET** /admin/index - Get all users  
   - **GET** /admin - Get admin summary  
   - **GET** /admin/transactionreport - Get transaction report  
   - **GET** /admin/loan - Get all loans  
   - **PUT** /admin/transaction/status - Update loan transaction status  
 
-- ## User Profile Routes
+- ### User Profile Routes:
   - **GET** /getDataProfile - Get user profile data  
   - **POST** /delete - Delete user  
 
-- ## Account Routes
+- ### Account Routes:
   - **POST** /show/account - Show account details  
   - **POST** /update/account - Update account  
 
-- ## Transaction Routes
+- ### Transaction Routes:
   - **GET** /index/transaction - Get all transactions  
   - **POST** /transaction/store - Create a new transaction  
   - **POST** /transaction/loan/store - Update loan transaction
