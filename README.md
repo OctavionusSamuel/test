@@ -18,7 +18,7 @@
 ## Bonus yang Diambil:
 - ### Hosting:
   - **Backend:**  [http://atmakel3.my.id](http://atmakel3.my.id)
-  - **Frontend:** [https://demo-frontend-com](https://demo-frontend-com)
+  - **Frontend:** [http://atmakel3.my.id](http://atmakel3.my.id)
 
 - ### Routes API:
 
