@@ -49,4 +49,4 @@
 
 - ### React:
   - **Link Repository:** [https://github.com/MyProject/PW2023_E_18_React](https://github.com/MyProject/PW2023_E_18_React)
-  - **Link Repository:** [https://github.com/MyProject/PW2023_E_18_React](https://github.com/Kazuhaa11/PW_A_3_React) 
+  - **Link Repository:** [https://github.com/Kazuhaa11/PW_A_3_React](https://github.com/Kazuhaa11/PW_A_3_React) 
