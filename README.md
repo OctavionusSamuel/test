@@ -21,10 +21,8 @@
   - **Frontend:** [https://demo-frontend-com](https://demo-frontend-com)
 
 - ### Routes API:
-  - **GET** `/api/customer` - Get all customer  
-  - **POST** `/api/customer` - Create customer
 
-- ### Public Routes:
+- #### Public Routes:
   - **POST** `/register` - Register a new user  
   - **POST** `/login` - Login user  
 
