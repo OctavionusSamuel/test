@@ -11,9 +11,9 @@
   - **Username:** fahmy8384@gmail.com
   - **Password:** 12345678 
 
-### Login Admin:
-- **Username:** admin@gmail.com  
-- **Password:** admin123 
+- ### Login Admin:
+  - **Username:** admin@gmail.com  
+  - **Password:** admin123 
 
 ## Bonus yang Diambil:
 ### Hosting:
