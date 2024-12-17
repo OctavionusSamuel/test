@@ -16,13 +16,13 @@
   - **Password:** admin123 
 
 ## Bonus yang Diambil:
-### Hosting:
-- **Backend:** [https://demo-backend.com/](https://demo-backend.com/)
-- **Frontend:** [https://demo-frontend-com](https://demo-frontend-com)
+- ### Hosting:
+  - **Backend:** [https://demo-backend.com/](https://demo-backend.com/)
+  - **Frontend:** [https://demo-frontend-com](https://demo-frontend-com)
 
-### Routes API:
-- **GET** `/api/customer` - Get all customer  
-- **POST** `/api/customer` - Create customer  
+- ### Routes API:
+  - **GET** `/api/customer` - Get all customer  
+  - **POST** `/api/customer` - Create customer  
 
-### React:
-- **Link Repository:** [https://github.com/MyProject/PW2023_E_18_React](https://github.com/MyProject/PW2023_E_18_React)
+- ### React:
+  - **Link Repository:** [https://github.com/MyProject/PW2023_E_18_React](https://github.com/MyProject/PW2023_E_18_React)
