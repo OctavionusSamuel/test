@@ -4,7 +4,7 @@
 - **Fahmy Junaidi Putra** (220711840) - Frontend & Integrasi
 - **Angello Khara Sitanggang** (220711833) - Backend
 - **Octavionus Samuel Kusuma Wardana** (220711661) - Frontend & Integrasi (transaksi)
-- **Jawara Theo Christo** (220712066) - Frontend
+- **Jawara Theo Christo** (220712066) - Frontend (menu)
 
 ## Username & Password Login:
 - ### Login User:
