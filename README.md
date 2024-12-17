@@ -1,9 +1,9 @@
 # Kelas A Kelompok 3
 
 ## Anggota Kelompok:
-- **Fahmy Junaidi Putra** (220711840) - Frontend & Integrasi
-- **Angello Khara Sitanggang** (220711833) - Backend
-- **Octavionus Samuel Kusuma Wardana** (220711661) - Frontend & Integrasi (transaksi)
+- **Fahmy Junaidi Putra** (220711840) - Frontend & Integrasi (Backend & Frontend)
+- **Angello Khara Sitanggang** (220711833) - Backend & Frontend (Admin)
+- **Octavionus Samuel Kusuma Wardana** (220711661) - Frontend & Integrasi (Transaksi)
 - **Jawara Theo Christo** (220712066) - Frontend (menu)
 
 ## Username & Password Login:
