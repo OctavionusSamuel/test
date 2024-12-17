@@ -23,31 +23,30 @@
 - ### Routes API:
   - **GET** `/api/customer` - Get all customer  
   - **POST** `/api/customer` - Create customer
-  - # *Routes API*
 
-- ## *Public Routes*
-  - *POST* /register - Register a new user  
-  - *POST* /login - Login user  
+- ## Public Routes
+  - **POST** /register - Register a new user  
+  - **POST** /login - Login user  
 
-- ## *Admin Routes*
-  - *GET* /admin/index - Get all users  
-  - *GET* /admin - Get admin summary  
-  - *GET* /admin/transactionreport - Get transaction report  
-  - *GET* /admin/loan - Get all loans  
-  - *PUT* /admin/transaction/status - Update loan transaction status  
+- ## Admin Routes
+  - **GET** /admin/index - Get all users  
+  - **GET** /admin - Get admin summary  
+  - **GET** /admin/transactionreport - Get transaction report  
+  - **GET** /admin/loan - Get all loans  
+  - **PUT** /admin/transaction/status - Update loan transaction status  
 
-- ## *User Profile Routes*
-  - *GET* /getDataProfile - Get user profile data  
-  - *POST* /delete - Delete user  
+- ## User Profile Routes
+  - **GET** /getDataProfile - Get user profile data  
+  - **POST** /delete - Delete user  
 
-- ## *Account Routes*
-  - *POST* /show/account - Show account details  
-  - *POST* /update/account - Update account  
+- ## Account Routes
+  - **POST** /show/account - Show account details  
+  - **POST** /update/account - Update account  
 
-- ## *Transaction Routes*
-  - *GET* /index/transaction - Get all transactions  
-  - *POST* /transaction/store - Create a new transaction  
-  - *POST* /transaction/loan/store - Update loan transaction
+- ## Transaction Routes
+  - **GET** /index/transaction - Get all transactions  
+  - **POST** /transaction/store - Create a new transaction  
+  - **POST** /transaction/loan/store - Update loan transaction
 
 - ### React:
   - **Link Repository:** [https://github.com/MyProject/PW2023_E_18_React](https://github.com/MyProject/PW2023_E_18_React)
